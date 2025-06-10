@@ -1,6 +1,6 @@
 # Sigment App
 
-A lightweight frontend application built with **[Sigment](https://www.npmjs.com/package/sigment)** — a React-like UI library — bundled with **Vite** and written in **TypeScript**. Optionally, you can integrate an **Express.js** backend if needed.
+A lightweight frontend library application built with **[Sigment](https://www.npmjs.com/package/sigment)** — bundled with **Vite** and written in **Javascript**. Optionally, you can integrate an **Express.js** backend if needed.
 
 ---
 
@@ -8,7 +8,6 @@ A lightweight frontend application built with **[Sigment](https://www.npmjs.com/
 
 - 🧩 **Sigment** — simple, component-based UI framework  
 - ⚡ **Vite** — fast development and optimized builds  
-- 📘 **TypeScript** — type-safe development  
 - 🌐 Optional **Express** backend for API/server integration
 
 ---
@@ -18,8 +17,8 @@ A lightweight frontend application built with **[Sigment](https://www.npmjs.com/
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/sigmentjs/basic-sigment-typescript-vite.git
-   cd basic-sigment-typescript-vite
+   git clone https://github.com/sigmentjs/basic-sigment-javascript-vite.git
+   cd basic-sigment-javascript-vite
 
 2. **install**
 

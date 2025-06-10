@@ -46,12 +46,12 @@ app.get('*', (req, res) => {
   }
 });
 
-let port=3003;
+let port=4000;
 if (Env==="prod" || Env==="production") {
-   port = 3001;
+   port = 4001;
 }
 else if (Env==="dev" || Env==="development") {
-   port = 3000;
+   port = 4000;
 }
 
 app.listen(port, () => {

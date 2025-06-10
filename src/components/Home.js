@@ -1,13 +1,11 @@
 
 import './sigments/sigments.js';
 
-function Home(): HTMLElement  {
+function Home()  {
 
   return div({id:"home"},
     
     h1('Hello from Sigment',
-    br(),
-    span('  +TypeScript'),
     br(),
     span('   +Vite')),
     div({class:"examples"},

@@ -1,7 +1,7 @@
 
 import './sigments/sigments.js';
 
-function Hello(): HTMLElement  {
+function Hello()  {
 
   return div(
 

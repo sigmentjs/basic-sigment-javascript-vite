@@ -1,7 +1,7 @@
 import {parsePath,loadRunFunc} from  "sigment"
 import { Routes } from './Routes.js';
 
-async function Body() : Promise<HTMLElement>  {
+async function Body()  {
 
   const container = div({class:"body"},'Loading...'); 
 

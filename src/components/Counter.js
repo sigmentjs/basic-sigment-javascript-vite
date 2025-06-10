@@ -2,7 +2,7 @@
 
 import { signal } from 'sigment';
 
-function Counter(): HTMLElement  {
+function Counter()  {
   const [count, setCount] = signal(0);
 
   return div({id:"counter"},

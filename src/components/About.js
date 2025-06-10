@@ -2,7 +2,7 @@
 
 import { createSignal } from 'sigment';
 
-function About(): HTMLElement  {
+function About()  {
 
   return div(
 
